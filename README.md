@@ -2,7 +2,7 @@
 
 Simply put, this is a web application of a pixelated canvas drawing board XD. The tiny little thing is made in Vue framework, which is a fitting choice due to how simple the framework is. 
 The unexpected thing about this project is that it's actually fun: the doing process and the thing itself. Perhaps my best personal made project so far XD!
-Instead of going on and on, I think you should try out the app and see it for yourself: 
+Instead of going on and on, I think you should try out the app and see it for yourself: https://thedaythatlast.github.io/miniBoard/
 
 ## The making process
 

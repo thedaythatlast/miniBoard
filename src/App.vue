@@ -80,7 +80,7 @@ function colorPick(c: string)
   color.value = c
 
   // sound effect
-  const audio = new Audio("/assets/pop.mp3");
+  const audio = new Audio("./assets/pop.mp3");
   audio.play();
 }
 function clearCanvas() {
@@ -90,7 +90,7 @@ function clearCanvas() {
   localStorage.removeItem('grid');
 
   // sound effect
-  const audio = new Audio("/assets/clear.mp3");
+  const audio = new Audio("./assets/clear.mp3");
   audio.play();
 }
 function mouseEnterColorButtons(c) {
