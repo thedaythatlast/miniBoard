@@ -1,10 +1,10 @@
-# What is even this sussy project?! XD
+## What is even this sussy project?! XD
 
 Simply put, this is a web application of a pixelated canvas drawing board XD. The tiny little thing is made in Vue framework, which is a fitting choice due to how simple the framework is. 
 The unexpected thing about this project is that it's actually fun: the doing process and the thing itself. Perhaps my best personal made project so far XD!
 Instead of going on and on, I think you should try out the app and see it for yourself: 
 
-# The making process
+## The making process
 
 The app is made (other than the obvious choice of Vue.js) using browser's built-in canvas API. 
 The ability to draw a pixel beneath the tip of your cursor is composed of the canvas API's fundamental function .fillRect (which belongs to .getContext('2d')), combined with some basic event handlings that detect the position of your cursor, your clicking, and so forth.
@@ -16,13 +16,13 @@ Assets for the sound effects are downloaded from Pixabay - needless to say, thos
 
 The icon (showed on the tab) is originally made by me :).
 
-# Is that it?
+## Is that it?
 
 Originally, I wanted to add some sort of music player (maybe lo-fi music) on the app, and the ability to let multiple users draw on the board in real live time. But I don't have more time for this project than I can afford to allocate them on it, so as of now these are just plans.
 
 Perhaps also worth being noted is how during the course of making this app, I realized how it can be made into really fun games (battleship types, minesweepers, drawing-matching, etc). These ideas have some potential and perhaps it would be great if I can realize them in the future somehow. 
 
-# The needful
+## The needful
 
 In case you want to try it out locally.
 Or, maybe the deployed site is down.
@@ -35,3 +35,7 @@ npm run dev
 ```
 
 Note: Make sure you have installed Node.js before running the commands. 
+
+## Personal notes
+
+- The 'docs' folder contain the build for Github Page - the npm generated name originally is 'dist'. When cloning the project again, I may want to delete the docs folder as there would be no need for it.
